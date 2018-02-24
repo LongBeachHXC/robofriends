@@ -3,11 +3,6 @@ import CardList from './cardlist';
 import SearchBox from './searchbox';
 import { robots } from './robots';
 
-const state = {
-    robots: robots,
-    searchfield: ''
-}
-
 class App extends Component {
     constructor() {
         super()
