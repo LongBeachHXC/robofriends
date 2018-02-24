@@ -8,8 +8,7 @@ const CardList = () => {
     return (
         <div>
             {cardComponent}
-        </div>,
-    )
-}
+        </div>
+)}
 
 export default CardList;
