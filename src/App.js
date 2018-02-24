@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Component } from 'react';
 import CardList from './cardlist';
 import SearchBox from './searchbox';
 import { robots } from './robots';
