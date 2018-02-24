@@ -13,4 +13,4 @@ const SearchBox = ({searchfield, searchChange}) => {
     )
 }
 
-export defaul SearchBox;
+export default SearchBox;
